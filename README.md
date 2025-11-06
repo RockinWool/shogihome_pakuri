@@ -2,6 +2,7 @@
 
 # ShogiHome
 # パクリです
+# aaaa
 
 [![Test](https://github.com/sunfish-shogi/shogihome/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/sunfish-shogi/shogihome/actions/workflows/test.yml)
 [![Test/CLI](https://github.com/sunfish-shogi/shogihome/actions/workflows/test-cli.yml/badge.svg?branch=main&event=push)](https://github.com/sunfish-shogi/shogihome/actions/workflows/test-cli.yml)
